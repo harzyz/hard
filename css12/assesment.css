@@ -23,7 +23,7 @@ h3 {
   position: relative;
   left: 40px;
 }
-@media (max-width: 325px) {
+@media (max-width: 800px) {
   .ground {
     display: flex;
     flex-direction: column;
